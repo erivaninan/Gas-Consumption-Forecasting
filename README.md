@@ -4,4 +4,4 @@
 - Application de différents processus de prévision : AR, MA, ARMA, ARIMA, GARCH…
 - Prévisions des données futures
 
-Lien des données : https://urlz.fr/oAG7
+Lien vers le dataset : https://urlz.fr/oAG7
